@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Yanan Liu 
+**USF email address**:  yliu295@usfca.edu
